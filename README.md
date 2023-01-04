@@ -1,2 +1,2 @@
 # Stock-Prediction-using-LSTM
-This repository contains a stock prediction model implemented using LSTM (long short-term memory) neural networks. The web application of model is implemented using python framework flask.
+This repository contains a stock prediction model implemented using LSTM (long short-term memory) neural networks. The model is trained on historical stock data and is able to predict future stock prices. The repository includes code for data preprocessing, training, and evaluating the model, as well as a Jupyter notebook demonstrating the use of the model. The web application of model is implemented using python framework flask.
